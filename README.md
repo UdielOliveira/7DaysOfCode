@@ -8,4 +8,4 @@
 
 **E para abrir é necessário escrever node.js em sua maquina**
 # Descrição do Projeto
-Esse projeto foi feito a patir de um curso ou seja ele é meramente um projeto de estudo
+Esse projeto foi feito a patir de um curso ou seja ele é meramente um projeto de estudo, (Não digite nehum codigo acima)
